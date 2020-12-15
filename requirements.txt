@@ -1,0 +1,12 @@
+notebook
+pathlib
+pandas
+numpy
+matplotlib
+sklearn
+seaborn
+plotly
+nltk
+gensim
+wordcloud
+
